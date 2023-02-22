@@ -12,7 +12,7 @@
 
 - [algorithms](https://github.com/Yousuf28/algorithms)
 - [vscode/vim/git/terminal cheatsheet](https://github.com/Yousuf28/cheatsheet)
-- [doomemacs](https://github.com/Yousuf28/dotfile)
+- [doom emacs](https://github.com/Yousuf28/dotfile)
 
 
 
